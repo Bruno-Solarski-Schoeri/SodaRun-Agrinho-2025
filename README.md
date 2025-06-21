@@ -1,2 +1,2 @@
-# SodaRun-Agrinho-2025
+# Projeto Soda Run-Agrinho-2025
 ---
